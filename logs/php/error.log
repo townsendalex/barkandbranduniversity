@@ -1,0 +1,387 @@
+[24-May-2024 00:51:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\functions.php:29
+Stack trace:
+#0 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\archive-program.php(5): pageBanner(Array)
+#1 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\towns\\...')
+#2 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\towns\\...')
+#3 C:\Users\towns\Local Sites\barkbranduniversity\app\public\index.php(17): require('C:\\Users\\towns\\...')
+#4 {main}
+  thrown in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\functions.php on line 29
+[01-Jun-2024 04:05:23 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\archive-campus.php on line 17
+[01-Jun-2024 04:05:23 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\archive-campus.php on line 17
+[01-Jun-2024 04:05:23 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\archive-campus.php on line 19
+[01-Jun-2024 04:05:23 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\archive-campus.php on line 17
+[01-Jun-2024 04:05:23 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\archive-campus.php on line 17
+[01-Jun-2024 04:05:23 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\archive-campus.php on line 19
+[02-Jun-2024 16:38:23 UTC] PHP Parse error:  Unclosed '{' on line 6 in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\page-archive-professors.php on line 37
+[02-Jun-2024 21:43:56 UTC] PHP Parse error:  Unmatched '}' in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 63
+[02-Jun-2024 21:43:58 UTC] PHP Parse error:  Unmatched '}' in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 63
+[03-Jun-2024 02:03:58 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[03-Jun-2024 02:04:17 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[03-Jun-2024 02:04:36 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Undefined array key "thumbnail" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 172
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 172
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Undefined array key "thumbnail" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 177
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 177
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Undefined array key "thumbnail" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 178
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 178
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Undefined array key "thumbnail" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 179
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 179
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Undefined array key "thumbnail" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 180
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 180
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Undefined array key "thumbnail" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 181
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 181
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Undefined array key "thumbnail" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 183
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 183
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Undefined array key "professorLandscape" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 172
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 172
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Undefined array key "professorLandscape" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 177
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 177
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Undefined array key "professorLandscape" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 178
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 178
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Undefined array key "professorLandscape" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 179
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 179
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Undefined array key "professorLandscape" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 180
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 180
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Undefined array key "professorLandscape" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 181
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 181
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Undefined array key "professorLandscape" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 183
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 183
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Undefined array key "professorPortrait" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 172
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 172
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Undefined array key "professorPortrait" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 177
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 177
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Undefined array key "professorPortrait" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 178
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 178
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Undefined array key "professorPortrait" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 179
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 179
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Undefined array key "professorPortrait" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 180
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 180
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Undefined array key "professorPortrait" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 181
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 181
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Undefined array key "professorPortrait" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 183
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 183
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Undefined array key "pageBanner" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 172
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 172
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Undefined array key "pageBanner" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 177
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 177
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Undefined array key "pageBanner" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 178
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 178
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Undefined array key "pageBanner" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 179
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 179
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Undefined array key "pageBanner" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 180
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 180
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Undefined array key "pageBanner" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 181
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 181
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Undefined array key "pageBanner" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 183
+[03-Jun-2024 02:09:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropSettingsPage.php on line 183
+[03-Jun-2024 19:32:56 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php:27
+Stack trace:
+#0 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\towns\\...')
+#2 C:\Users\towns\Local Sites\barkbranduniversity\app\public\index.php(17): require('C:\\Users\\towns\\...')
+#3 {main}
+  thrown in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 27
+[03-Jun-2024 19:33:31 UTC] PHP Warning:  Undefined variable $EndTime in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 27
+[03-Jun-2024 19:33:41 UTC] PHP Warning:  Undefined variable $EndTime in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 27
+[03-Jun-2024 19:36:43 UTC] PHP Parse error:  syntax error, unexpected variable "$formattedDate" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 26
+[03-Jun-2024 19:37:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php:27
+Stack trace:
+#0 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\towns\\...')
+#2 C:\Users\towns\Local Sites\barkbranduniversity\app\public\index.php(17): require('C:\\Users\\towns\\...')
+#3 {main}
+  thrown in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 27
+[03-Jun-2024 19:37:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php:27
+Stack trace:
+#0 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\towns\\...')
+#2 C:\Users\towns\Local Sites\barkbranduniversity\app\public\index.php(17): require('C:\\Users\\towns\\...')
+#3 {main}
+  thrown in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 27
+[03-Jun-2024 19:40:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php:30
+Stack trace:
+#0 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\towns\\...')
+#2 C:\Users\towns\Local Sites\barkbranduniversity\app\public\index.php(17): require('C:\\Users\\towns\\...')
+#3 {main}
+  thrown in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 30
+[03-Jun-2024 19:40:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php:30
+Stack trace:
+#0 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\towns\\...')
+#2 C:\Users\towns\Local Sites\barkbranduniversity\app\public\index.php(17): require('C:\\Users\\towns\\...')
+#3 {main}
+  thrown in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 30
+[03-Jun-2024 19:40:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php:30
+Stack trace:
+#0 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\towns\\...')
+#2 C:\Users\towns\Local Sites\barkbranduniversity\app\public\index.php(17): require('C:\\Users\\towns\\...')
+#3 {main}
+  thrown in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 30
+[03-Jun-2024 19:40:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php:30
+Stack trace:
+#0 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\towns\\...')
+#2 C:\Users\towns\Local Sites\barkbranduniversity\app\public\index.php(17): require('C:\\Users\\towns\\...')
+#3 {main}
+  thrown in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 30
+[03-Jun-2024 19:52:15 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 36
+[03-Jun-2024 19:53:37 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 38
+[03-Jun-2024 19:55:15 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 38
+[03-Jun-2024 19:55:16 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 38
+[03-Jun-2024 19:55:19 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 38
+[03-Jun-2024 19:57:00 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 39
+[03-Jun-2024 19:57:05 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 39
+[03-Jun-2024 19:57:13 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 39
+[03-Jun-2024 19:59:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php:26
+Stack trace:
+#0 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\towns\\...')
+#2 C:\Users\towns\Local Sites\barkbranduniversity\app\public\index.php(17): require('C:\\Users\\towns\\...')
+#3 {main}
+  thrown in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 26
+[03-Jun-2024 20:27:40 UTC] PHP Warning:  Array to string conversion in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 41
+[03-Jun-2024 20:38:07 UTC] PHP Warning:  Attempt to read property "post_content" on int in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 44
+[03-Jun-2024 20:38:54 UTC] PHP Warning:  Attempt to read property "post_title" on int in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 44
+[03-Jun-2024 20:39:31 UTC] PHP Warning:  Attempt to read property "ID" on int in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 44
+[03-Jun-2024 20:40:34 UTC] PHP Warning:  Attempt to read property "ID" on int in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 44
+[03-Jun-2024 20:40:35 UTC] PHP Warning:  Attempt to read property "ID" on int in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 44
+[03-Jun-2024 20:40:36 UTC] PHP Warning:  Attempt to read property "ID" on int in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 44
+[03-Jun-2024 20:41:00 UTC] PHP Warning:  Attempt to read property "ID" on int in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 44
+[03-Jun-2024 20:42:08 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 46
+[03-Jun-2024 22:46:19 UTC] PHP Warning:  Undefined variable $campus_id in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 45
+[03-Jun-2024 22:47:56 UTC] PHP Parse error:  Unmatched '}' in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 68
+[03-Jun-2024 22:56:05 UTC] PHP Warning:  Undefined variable $campus_name in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 46
+[03-Jun-2024 23:58:01 UTC] PHP Warning:  Undefined variable $campus_name in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 46
+[04-Jun-2024 00:15:20 UTC] PHP Warning:  Trying to access array offset on value of type int in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 42
+[04-Jun-2024 00:34:25 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\template-parts\content-event.php on line 16
+[04-Jun-2024 02:23:31 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 41
+[05-Jun-2024 01:40:46 UTC] PHP Parse error:  Unclosed '{' on line 4 in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 69
+[05-Jun-2024 01:40:57 UTC] PHP Parse error:  Unclosed '{' on line 4 in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 69
+[05-Jun-2024 01:41:03 UTC] PHP Parse error:  Unclosed '{' on line 4 in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 69
+[05-Jun-2024 01:41:07 UTC] PHP Parse error:  Unclosed '{' on line 4 in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 69
+[05-Jun-2024 01:42:26 UTC] PHP Parse error:  Unclosed '{' on line 4 in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-event.php on line 69
+[05-Jun-2024 05:42:57 UTC] PHP Fatal error:  Uncaught Error: Undefined constant WP_REST_Server::POST in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php:7
+Stack trace:
+#0 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-hook.php(324): universityLikeRoutes(Object(WP_REST_Server))
+#1 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\rest-api.php(597): do_action('rest_api_init', Object(WP_REST_Server))
+#4 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\rest-api.php(421): rest_get_server()
+#5 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#6 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#7 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#8 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#9 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp.php(813): WP->parse_request('')
+#10 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\functions.php(1336): WP->main('')
+#11 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-blog-header.php(16): wp()
+#12 C:\Users\towns\Local Sites\barkbranduniversity\app\public\index.php(17): require('C:\\Users\\towns\\...')
+#13 {main}
+  thrown in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 7
+[05-Jun-2024 05:43:19 UTC] PHP Fatal error:  Uncaught Error: Undefined constant WP_REST_Server::POST in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php:7
+Stack trace:
+#0 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-hook.php(324): universityLikeRoutes(Object(WP_REST_Server))
+#1 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\rest-api.php(597): do_action('rest_api_init', Object(WP_REST_Server))
+#4 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\rest-api.php(421): rest_get_server()
+#5 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#6 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#7 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#8 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#9 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp.php(813): WP->parse_request('')
+#10 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\functions.php(1336): WP->main('')
+#11 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-blog-header.php(16): wp()
+#12 C:\Users\towns\Local Sites\barkbranduniversity\app\public\index.php(17): require('C:\\Users\\towns\\...')
+#13 {main}
+  thrown in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 7
+[05-Jun-2024 05:43:56 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "POST" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php:7
+Stack trace:
+#0 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-hook.php(324): universityLikeRoutes(Object(WP_REST_Server))
+#1 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\rest-api.php(597): do_action('rest_api_init', Object(WP_REST_Server))
+#4 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\rest-api.php(421): rest_get_server()
+#5 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#6 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#7 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#8 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#9 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp.php(813): WP->parse_request('')
+#10 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\functions.php(1336): WP->main('')
+#11 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-blog-header.php(16): wp()
+#12 C:\Users\towns\Local Sites\barkbranduniversity\app\public\index.php(17): require('C:\\Users\\towns\\...')
+#13 {main}
+  thrown in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 7
+[05-Jun-2024 05:46:03 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "POST" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php:7
+Stack trace:
+#0 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-hook.php(324): universityLikeRoutes(Object(WP_REST_Server))
+#1 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\rest-api.php(597): do_action('rest_api_init', Object(WP_REST_Server))
+#4 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\rest-api.php(421): rest_get_server()
+#5 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#6 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#7 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#8 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#9 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp.php(813): WP->parse_request('')
+#10 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\functions.php(1336): WP->main('')
+#11 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-blog-header.php(16): wp()
+#12 C:\Users\towns\Local Sites\barkbranduniversity\app\public\index.php(17): require('C:\\Users\\towns\\...')
+#13 {main}
+  thrown in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 7
+[05-Jun-2024 05:46:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "POST" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php:7
+Stack trace:
+#0 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-hook.php(324): universityLikeRoutes(Object(WP_REST_Server))
+#1 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\rest-api.php(597): do_action('rest_api_init', Object(WP_REST_Server))
+#4 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\rest-api.php(421): rest_get_server()
+#5 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#6 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#7 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#8 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#9 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp.php(813): WP->parse_request('')
+#10 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\functions.php(1336): WP->main('')
+#11 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-blog-header.php(16): wp()
+#12 C:\Users\towns\Local Sites\barkbranduniversity\app\public\index.php(17): require('C:\\Users\\towns\\...')
+#13 {main}
+  thrown in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 7
+[05-Jun-2024 05:53:46 UTC] PHP Warning:  Undefined variable $professor in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 23
+[05-Jun-2024 06:11:50 UTC] PHP Parse error:  syntax error, unexpected token "?" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 43
+[06-Jun-2024 17:27:19 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 23
+[06-Jun-2024 17:27:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[06-Jun-2024 17:27:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[06-Jun-2024 17:29:20 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 23
+[06-Jun-2024 17:34:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "is_user_logged_in" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php:18
+Stack trace:
+#0 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\rest-api\class-wp-rest-server.php(1230): createLike(Object(WP_REST_Request))
+#1 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\rest-api\class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/university/v1/...', Array, NULL)
+#2 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\rest-api.php(428): WP_REST_Server->serve_request('/university/v1/...')
+#4 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#5 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#7 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#8 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp.php(813): WP->parse_request('')
+#9 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\functions.php(1336): WP->main('')
+#10 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-blog-header.php(16): wp()
+#11 C:\Users\towns\Local Sites\barkbranduniversity\app\public\index.php(17): require('C:\\Users\\towns\\...')
+#12 {main}
+  thrown in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 18
+[06-Jun-2024 17:35:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "is_user_logged_in" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php:18
+Stack trace:
+#0 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\rest-api\class-wp-rest-server.php(1230): createLike(Object(WP_REST_Request))
+#1 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\rest-api\class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/university/v1/...', Array, NULL)
+#2 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\rest-api.php(428): WP_REST_Server->serve_request('/university/v1/...')
+#4 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#5 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#7 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#8 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp.php(813): WP->parse_request('')
+#9 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\functions.php(1336): WP->main('')
+#10 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-blog-header.php(16): wp()
+#11 C:\Users\towns\Local Sites\barkbranduniversity\app\public\index.php(17): require('C:\\Users\\towns\\...')
+#12 {main}
+  thrown in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 18
+[06-Jun-2024 17:36:13 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "is_user_logged_in" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php:18
+Stack trace:
+#0 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\rest-api\class-wp-rest-server.php(1230): createLike(Object(WP_REST_Request))
+#1 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\rest-api\class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/university/v1/...', Array, NULL)
+#2 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\rest-api.php(428): WP_REST_Server->serve_request('/university/v1/...')
+#4 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#5 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#7 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#8 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp.php(813): WP->parse_request('')
+#9 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\functions.php(1336): WP->main('')
+#10 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-blog-header.php(16): wp()
+#11 C:\Users\towns\Local Sites\barkbranduniversity\app\public\index.php(17): require('C:\\Users\\towns\\...')
+#12 {main}
+  thrown in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 18
+[06-Jun-2024 17:36:20 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "is_user_logged_in" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php:18
+Stack trace:
+#0 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\rest-api\class-wp-rest-server.php(1230): createLike(Object(WP_REST_Request))
+#1 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\rest-api\class-wp-rest-server.php(1063): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/university/v1/...', Array, NULL)
+#2 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\rest-api\class-wp-rest-server.php(439): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\rest-api.php(428): WP_REST_Server->serve_request('/university/v1/...')
+#4 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#5 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#7 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#8 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\class-wp.php(813): WP->parse_request('')
+#9 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-includes\functions.php(1336): WP->main('')
+#10 C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-blog-header.php(16): wp()
+#11 C:\Users\towns\Local Sites\barkbranduniversity\app\public\index.php(17): require('C:\\Users\\towns\\...')
+#12 {main}
+  thrown in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 18
+[06-Jun-2024 17:48:30 UTC] PHP Parse error:  syntax error, unexpected token ")" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 20
+[06-Jun-2024 17:50:30 UTC] PHP Parse error:  syntax error, unexpected token ")" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 20
+[06-Jun-2024 17:52:31 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 43
+[06-Jun-2024 17:52:54 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 43
+[06-Jun-2024 17:52:57 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 43
+[06-Jun-2024 17:52:59 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 43
+[06-Jun-2024 17:54:08 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 43
+[06-Jun-2024 17:54:08 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 43
+[06-Jun-2024 17:54:10 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 43
+[06-Jun-2024 17:54:10 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 43
+[06-Jun-2024 17:54:10 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 43
+[06-Jun-2024 17:54:11 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 43
+[06-Jun-2024 17:54:11 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 43
+[06-Jun-2024 17:54:11 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 43
+[06-Jun-2024 17:54:16 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 43
+[06-Jun-2024 17:54:16 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 43
+[06-Jun-2024 17:54:16 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 43
+[06-Jun-2024 17:54:16 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 43
+[06-Jun-2024 17:54:18 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 43
+[06-Jun-2024 17:54:18 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 43
+[06-Jun-2024 17:54:32 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 43
+[06-Jun-2024 17:54:45 UTC] PHP Parse error:  Unclosed '{' on line 17 in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 56
+[06-Jun-2024 17:54:45 UTC] PHP Parse error:  Unclosed '{' on line 17 in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 56
+[06-Jun-2024 17:54:47 UTC] PHP Parse error:  Unclosed '{' on line 17 in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 56
+[06-Jun-2024 17:54:47 UTC] PHP Parse error:  Unclosed '{' on line 17 in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 56
+[06-Jun-2024 17:54:47 UTC] PHP Parse error:  Unclosed '{' on line 17 in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 56
+[06-Jun-2024 17:54:47 UTC] PHP Parse error:  Unclosed '{' on line 17 in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 56
+[06-Jun-2024 17:54:51 UTC] PHP Parse error:  Unclosed '{' on line 17 in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 56
+[06-Jun-2024 17:54:51 UTC] PHP Parse error:  Unclosed '{' on line 17 in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 56
+[06-Jun-2024 18:35:45 UTC] PHP Warning:  Undefined array key 0 in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:35:45 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:36:09 UTC] PHP Warning:  Undefined array key 0 in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:36:09 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:39:33 UTC] PHP Warning:  Undefined array key 0 in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:39:33 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:39:50 UTC] PHP Warning:  Undefined array key 0 in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:39:50 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:40:04 UTC] PHP Warning:  Undefined array key 0 in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:40:04 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:45:10 UTC] PHP Warning:  Undefined array key 0 in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:45:10 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:50:52 UTC] PHP Warning:  Undefined array key 0 in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:50:52 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:51:38 UTC] PHP Warning:  Undefined array key 0 in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:51:38 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:51:41 UTC] PHP Warning:  Undefined array key 0 in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:51:41 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:51:42 UTC] PHP Warning:  Undefined array key 0 in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:51:42 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:53:26 UTC] PHP Warning:  Undefined array key 0 in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:53:26 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:53:28 UTC] PHP Warning:  Undefined array key 0 in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:53:28 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:53:29 UTC] PHP Warning:  Undefined array key 0 in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:53:29 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:53:53 UTC] PHP Warning:  Undefined array key 0 in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:53:53 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:54:03 UTC] PHP Warning:  Undefined array key 0 in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:54:03 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:55:50 UTC] PHP Warning:  Undefined variable $existQuery in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:55:50 UTC] PHP Warning:  Attempt to read property "found_posts" on null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:55:53 UTC] PHP Warning:  Undefined variable $existQuery in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:55:53 UTC] PHP Warning:  Attempt to read property "found_posts" on null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:56:14 UTC] PHP Warning:  Undefined variable $existQuery in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 18:56:14 UTC] PHP Warning:  Attempt to read property "found_posts" on null in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
+[06-Jun-2024 19:07:39 UTC] PHP Parse error:  syntax error, unexpected string content "congrats, like deleted.";", expecting ";" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 56
+[06-Jun-2024 19:07:39 UTC] PHP Parse error:  syntax error, unexpected string content "congrats, like deleted.";", expecting ";" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\inc\like-route.php on line 56
+[06-Jun-2024 19:12:22 UTC] PHP Parse error:  syntax error, unexpected token "echo", expecting "," or ";" in C:\Users\towns\Local Sites\barkbranduniversity\app\public\wp-content\themes\bark-brand-university-theme\single-professor.php on line 46
